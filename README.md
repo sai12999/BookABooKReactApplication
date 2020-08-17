@@ -13,7 +13,7 @@ reference please check the images below. The website should be responsive and sh
 work in all device resolutions, though you can use your own creativity for the responsive UI
 design. Follow all best practices and standards.
 
-Points to consider:
+Points to consider:  
 • The Home screen should have minimum 20 books.  
 • Each book will have its Detail page and a Buy Now or Add to Cart Button.  
 • The Detail page of the item will have its picture, price, and features.  

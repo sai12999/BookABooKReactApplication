@@ -1,0 +1,32 @@
+.cartItem {
+    width: 100%;
+}
+
+.item {
+    display: flex;
+    flex-direction: row ;
+    background-color: rgb(223, 211, 211);
+    padding: 10px;
+    margin-top: 5px;
+    align-items: center;
+}
+
+.iteminfo {
+    width: 70%;
+}
+
+.imgpath {
+    width: 15%;
+    margin-right: 10px;
+}
+
+.btn {
+    width: 10%;
+    height: 10%;
+}
+
+@media screen and (max-width : 500px) {
+    .item { 
+        display: block;
+    }
+}

@@ -1,0 +1,27 @@
+.checkoutContainer {
+    display: flex;
+    flex-direction: column;
+}
+
+.col1 {
+    max-width : 100%;
+    float: left;
+    padding: 20px;
+}
+
+.col2 {
+    max-width : 100%;
+    float: left;
+    padding: 20px;
+}
+
+
+@media screen and (max-width : 700px) {
+    .col1{
+        max-width: 100%;
+    }
+
+    .col2{
+        max-width: 100%;
+    }
+}

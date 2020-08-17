@@ -1,0 +1,28 @@
+.bookimg {
+    width : 25%;
+    float: left;
+    margin: 10px;
+}
+
+.bookInfo {
+    float: left;
+    width: 65%;
+    margin-left: 30px;
+    margin-top: 10px;
+}
+
+.desc {
+    width: 100%;
+}
+
+@media screen and (max-width : 500px) {
+    .bookimg {
+        width : 50%;
+        margin: 10px;;
+    }
+    .bookInfo {
+        margin-left: 10px;
+        width: 90%; 
+        margin-top: 5px;
+    }
+}

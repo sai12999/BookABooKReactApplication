@@ -1,0 +1,237 @@
+{
+  "books": [
+    {
+      "name": "Harry Potter and the Deathly Hallows",
+      "id": 1,
+      "imgpath": "book.png",
+      "description": "an awesome Children's Fiction book",
+      "price": 500,
+      "author": "JK Rowling",
+      "ISBN": "12345",
+      "pagecount": 100
+    },
+    {
+      "name": "In Search of Lost Time ",
+      "id": 2,
+      "imgpath": "book.png",
+      "description": "an awesome detective book",
+      "price": 200,
+      "author": "Marcel Proust",
+      "ISBN": "12346",
+      "pagecount": 150
+    },
+    {
+      "name": "Ulysses",
+      "id": 3,
+      "imgpath": "book.png",
+      "description": "an awesome mystery book",
+      "price": 500,
+      "author": "James Joyce",
+      "ISBN": "12347",
+      "pagecount": 300
+    },
+    {
+      "name": "Don Quixote",
+      "id": 4,
+      "imgpath": "book.png",
+      "description": "an awesome book",
+      "price": 600,
+      "author": "Miguel de Cervantes",
+      "ISBN": "12348",
+      "pagecount": 100
+    },
+    {
+      "name": "The Great Gatsby ",
+      "id": 5,
+      "imgpath": "book.png",
+      "description": "an awesome book",
+      "price": 500,
+      "author": "F. Scott Fitzgerald",
+      "ISBN": "12349",
+      "pagecount": 100
+    },
+    {
+      "name": "One Hundred Years of Solitude ",
+      "id": 6,
+      "imgpath": "book.png",
+      "description": "an awesome book",
+      "price": 500,
+      "author": "Gabriel Garcia Marquez",
+      "ISBN": "12350",
+      "pagecount": 100
+    },
+    {
+      "name": "Moby Dick",
+      "id": 7,
+      "imgpath": "book.png",
+      "description": "an awesome book",
+      "price": 500,
+      "author": "Herman Melville",
+      "ISBN": "12351",
+      "pagecount": 100
+    },
+    {
+      "name": "War and Peace",
+      "id": 8,
+      "imgpath": "book.png",
+      "description": "an awesome book",
+      "price": 500,
+      "author": "Leo Tolstoy",
+      "ISBN": "12352",
+      "pagecount": 100
+    },
+    {
+      "name": "Hamlet",
+      "id": 9,
+      "imgpath": "book.png",
+      "description": "an awesome book",
+      "price": 500,
+      "author": "William Shakespeare",
+      "ISBN": "12353",
+      "pagecount": 100
+    },
+    {
+      "name": "The Catcher in the Rye",
+      "id": 10,
+      "imgpath": "book.png",
+      "description": "an awesome book",
+      "price": 700,
+      "author": "J. D. Salinger",
+      "ISBN": "12354",
+      "pagecount": 150
+    },
+    {
+      "name": "The Odyssey",
+      "id": 11,
+      "imgpath": "book.png",
+      "description": "an awesome book",
+      "price": 500,
+      "author": "Homer",
+      "ISBN": "12355",
+      "pagecount": 100
+    },
+    {
+      "name": "The Brothers Karamazov",
+      "id": 12,
+      "imgpath": "book.png",
+      "description": "an awesome book",
+      "price": 500,
+      "author": "Fyodor Dostoyevsky",
+      "ISBN": "12356",
+      "pagecount": 100
+    },
+    {
+      "name": "Crime and Punishment",
+      "id": 13,
+      "imgpath": "book.png",
+      "description": "an awesome book",
+      "price": 500,
+      "author": "Fyodor Dostoyevsky",
+      "ISBN": "12357",
+      "pagecount": 100
+    },
+    {
+      "name": "Madame Bovary",
+      "id": 14,
+      "imgpath": "book.png",
+      "description": "an awesome book",
+      "price": 500,
+      "author": "Gustave Flaubert",
+      "ISBN": "12358",
+      "pagecount": 100
+    },
+    {
+      "name": "The Divine Comedy",
+      "id": 15,
+      "imgpath": "book.png",
+      "description": "an awesome book",
+      "price": 500,
+      "author": "Dante Alighieri",
+      "ISBN": "12359",
+      "pagecount": 100
+    },
+    {
+      "name": "my book",
+      "id": 16,
+      "imgpath": "book.png",
+      "description": "an awesome book",
+      "price": 500,
+      "author": "samanth",
+      "ISBN": "12345",
+      "pagecount": 100
+    },
+    {
+      "name": "my book",
+      "id": 17,
+      "imgpath": "book.png",
+      "description": "an awesome book",
+      "price": 500,
+      "author": "samanth",
+      "ISBN": "12345",
+      "pagecount": 100
+    },
+    {
+      "name": "my book",
+      "id": 18,
+      "imgpath": "book.png",
+      "description": "an awesome book",
+      "price": 500,
+      "author": "samanth",
+      "ISBN": "12345",
+      "pagecount": 100
+    },
+    {
+      "name": "my book",
+      "id": 19,
+      "imgpath": "book.png",
+      "description": "an awesome book",
+      "price": 500,
+      "author": "samanth",
+      "ISBN": "12345",
+      "pagecount": 100
+    },
+    {
+      "name": "my book",
+      "id": 20,
+      "imgpath": "book.png",
+      "description": "an awesome book",
+      "price": 500,
+      "author": "samanth",
+      "ISBN": "12345",
+      "pagecount": 100
+    },
+    {
+      "name": "my book",
+      "id": 21,
+      "imgpath": "book.png",
+      "description": "an awesome book",
+      "price": 500,
+      "author": "samanth",
+      "ISBN": "12345",
+      "pagecount": 100
+    }
+  ],
+  "orders": [],
+  "cart": [
+    {
+      "name": "In Search of Lost Time ",
+      "id": 2,
+      "imgpath": "book.png",
+      "description": "an awesome detective book",
+      "price": 200,
+      "author": "Marcel Proust",
+      "ISBN": "12346",
+      "pagecount": 150
+    },
+    {
+      "name": "Ulysses",
+      "id": 3,
+      "imgpath": "book.png",
+      "description": "an awesome mystery book",
+      "price": 500,
+      "author": "James Joyce",
+      "ISBN": "12347",
+      "pagecount": 300
+    }
+  ]
+}

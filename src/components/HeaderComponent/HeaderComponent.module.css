@@ -1,0 +1,40 @@
+.pageheader {
+    padding : 20px;
+    background-color: black;
+    color: white;
+    position: sticky;
+    top: 0;
+    z-index: 1;
+}
+
+.headernav > .activeMenu {
+    color: black;
+    background-color: white;
+}
+
+.headernav a{
+    text-decoration: none;
+    color: inherit;
+    margin-right : 10px;
+    padding : 10px;
+}
+
+.headernav a:hover{
+    background-color: white;
+    color: black;
+}
+
+.headernav {
+    float: right;
+}
+
+@media screen and (max-width: 500px) {
+    .headernav{
+      float: none;
+      display: block;
+      text-align: left;
+    }
+    .headernav a{
+        display: block;
+      }
+}

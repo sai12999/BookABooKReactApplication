@@ -21,7 +21,7 @@ Points to consider:
 Button will store the Book in the Shopping Cart.
 • At the Checkout screen, the user can review the billing information and the list of
 items in the cart.
-• A My Orders screen which will list all the books the user has bought till date
+• A My Orders screen which will list all the books the user has bought till date.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
